@@ -1,0 +1,4 @@
+# grab page 2 and print using other PDF parsing libraries which show formatting information:
+# PDF::Extract: Extracts text and formatting information from PDF files using Ghostscript.
+# PDF::Table: Extracts tabular data from PDF files with formatting information.
+# PDF::Reuse: Generates and manipulates PDF files and can extract text and formatting information.

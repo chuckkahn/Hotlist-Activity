@@ -1,0 +1,18 @@
+
+The file 1 can't be found, aborts
+
+The error occurred when executing:
+ at /usr/local/share/perl/5.30.0/PDF/Reuse.pm line 1235.
+	PDF::Reuse::findGet(1, "") called at blib/lib/PDF/Reuse.pm (autosplit into blib/lib/auto/PDF/Reuse/analysera.al) line 5993
+	PDF::Reuse::analysera(1, 1, 1, 1) called at blib/lib/PDF/Reuse.pm (autosplit into blib/lib/auto/PDF/Reuse/prSinglePage.al) line 3052
+	PDF::Reuse::prSinglePage(1) called at /workspaces/Hotlist-Activity/pdf-test.pl line 7
+
+Situation when the error occurred
+
+   Bytes written to the current pdf-file,    pos    = 15
+   Object processed, not necessarily written objNr  = 3
+   Current pdf-file,                         utfil  = Hotlist1364.pdf
+   File logging the run,                     runfil = undef
+   Local time                                       = Fri Apr  7 20:29:55 2023
+
+
